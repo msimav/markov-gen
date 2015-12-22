@@ -3,7 +3,7 @@ Simple Markov Chain Text Generator in Scala
 
 ## Usage
 
-```scala
+```tut:silent
 import gen.Markov
 import scala.io.Source
 
